@@ -2,10 +2,6 @@
   <img src="./assets/profile-hero.svg" alt="canxin profile hero banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/69547456?v=4" alt="canxin avatar" width="108" height="108">
-</p>
-
 <h1 align="center">canxin</h1>
 
 <p align="center"><strong>Hardware Security · Frontend · Backend · App · Rust</strong></p>
