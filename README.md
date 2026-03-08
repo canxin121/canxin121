@@ -1,4 +1,24 @@
-# About Me
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="canxin profile hero banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/69547456?v=4" alt="canxin avatar" width="108" height="108">
+</p>
+
+<h1 align="center">canxin</h1>
+
+<p align="center"><strong>Hardware Security · Frontend · Backend · App · Rust</strong></p>
+
+<p align="center">
+  <a href="https://canxin121.github.io/duckquill-blog/"><img src="https://img.shields.io/badge/Blog-Homepage-FF7800?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog Homepage"></a>
+  <a href="https://github.com/canxin121"><img src="https://img.shields.io/badge/GitHub-canxin121-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:zxd_canxin@qq.com"><img src="https://img.shields.io/badge/Email-zxd__canxin%40qq.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## About Me
 
 **canxin** studied at the School of Electronic Engineering, Xidian University (undergraduate), and has been recommended for graduate admission to the School of Software, Tsinghua University. I am currently in my senior year / pre-master stage (Year 0). My graduate research direction is hardware security, and I continuously practice engineering across frontend, backend, app development, and Rust.
 
@@ -26,5 +46,5 @@
 ## Links & Contact
 
 - GitHub: [canxin](https://github.com/canxin121)
-- Blog: [canxin's blog](https://canxin121.github.io/duckquill-blog/)
+- Blog Homepage: [canxin's blog](https://canxin121.github.io/duckquill-blog/)
 - Email: `zxd_canxin@qq.com`
