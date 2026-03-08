@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="canxin profile hero banner" width="100%">
+  <a href="https://blog.cxits.cn">
+    <img src="./assets/profile-hero.svg" alt="canxin profile hero banner" width="100%">
+  </a>
 </p>
 
-<h1 align="center">canxin</h1>
-
-<p align="center"><strong>Hardware Security · Frontend · Backend · App · Rust</strong></p>
-
 <p align="center">
-  <a href="https://canxin121.github.io/duckquill-blog/"><img src="https://img.shields.io/badge/Blog-Homepage-FF7800?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog Homepage"></a>
+  <a href="https://blog.cxits.cn"><img src="https://img.shields.io/badge/Blog-Homepage-FF7800?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog Homepage"></a>
   <a href="https://github.com/canxin121"><img src="https://img.shields.io/badge/GitHub-canxin121-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:zxd_canxin@qq.com"><img src="https://img.shields.io/badge/Email-zxd__canxin%40qq.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -42,5 +40,5 @@
 ## Links & Contact
 
 - GitHub: [canxin](https://github.com/canxin121)
-- Blog Homepage: [canxin's blog](https://canxin121.github.io/duckquill-blog/)
+- Blog Homepage: [canxin's blog](https://blog.cxits.cn)
 - Email: `zxd_canxin@qq.com`
